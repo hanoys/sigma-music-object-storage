@@ -4,6 +4,7 @@ import (
 	"context"
 	"github.com/google/uuid"
 	"github.com/hanoys/sigma-music-core/ports"
+	"github.com/minio/minio-go/v7"
 	"net/url"
 	"path/filepath"
 )
