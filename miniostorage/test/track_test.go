@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"github.com/google/uuid"
-	"github.com/hanoys/sigma-music/internal/adapters/miniostorage"
+	"github.com/hanoys/sigma-music-object-storage/miniostorage"
 	"github.com/stretchr/testify/require"
 	"io"
 	"net/http"

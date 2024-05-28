@@ -5,7 +5,7 @@ package mocks
 import (
 	context "context"
 
-	ports "github.com/hanoys/sigma-music/internal/ports"
+	ports "github.com/hanoys/sigma-music-core/ports"
 	mock "github.com/stretchr/testify/mock"
 
 	uuid "github.com/google/uuid"

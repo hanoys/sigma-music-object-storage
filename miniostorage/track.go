@@ -3,8 +3,7 @@ package miniostorage
 import (
 	"context"
 	"github.com/google/uuid"
-	"github.com/hanoys/sigma-music/internal/ports"
-	"github.com/minio/minio-go/v7"
+	"github.com/hanoys/sigma-music-core/ports"
 	"net/url"
 	"path/filepath"
 )
